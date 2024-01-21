@@ -1,7 +1,11 @@
-# Portfolio of Vinayak Singh
+Installation process :-
+step1 :- open cmd or git terminal
+step2 :- git clone https://github.com/vivekss1998/tushar-revankar.git
+step3 :- npm install
+step4 :- npm start
 
-<img src ="https://github.com/CodeVinayak/CodeVinayak/blob/5920a79f4c5977332a67caf91125241cf0fc46b5/www.VinayakSingh.in.png" />
- 
+
+
 This project was created with CRA (Create React App)
 
 This is my website to introduce myself, here I put my skills, portfolio, and contact details.
